@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="596" height="332" alt="repoimage" src="https://github.com/user-attachments/assets/76d8aaac-6a63-45dc-bf93-46c624c1408a" />
+</p>
+
 # Linux Thermal Analytics Logger
 
 ### Comparative time-series analysis of my DIY "cardboard & tape" forced induction enclosure
